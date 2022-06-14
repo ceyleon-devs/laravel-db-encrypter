@@ -26,13 +26,13 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "betterapp\\LaravelDbEncrypter\\": "src/"
+            "ceyleon\\LaravelDbEncrypter\\": "src/"
         }
     },
     "authors": [{
         "name": "Daniel Czestki",
-        "email": "daniel@betterapp.net",
-        "homepage": "https://github.com/betterapp",
+        "email": "daniel@ceyleon.net",
+        "homepage": "https://github.com/ceyleon",
         "role": "Developer"
     }],
     "require": {
